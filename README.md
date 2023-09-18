@@ -1,1 +1,1 @@
-# HTML-CSS-Temaplate3
+# HTML-CSS-Template3
